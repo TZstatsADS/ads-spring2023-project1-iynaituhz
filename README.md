@@ -12,7 +12,7 @@ Term: Spring 2023
 + Projec title: What are the philosophers talking about?
 + This project is conducted by Tianyi Zhu
 
-+ Project summary: 
++ Project summary: Visualization and Sentiment Analysis. 
 + Questions will be answered in this project are: 
 What is the most commonly used meaningful word for each philosopher?
 For philosophers, is it their class or they themselves determine the length of their philosophical sentences?
