@@ -1,10 +1,4 @@
 ```{r}
-install.packages("dplyr")
-install.packages("tidytext")
-install.packages("ggplot2")
-install.packages("textdata")
-install.packages("sentimentr")
-
 library(dplyr)
 library(tidytext)
 library(ggplot2)
